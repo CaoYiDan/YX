@@ -1,0 +1,60 @@
+PODS:
+  - GKNavigationBarViewController (2.4.5)
+  - GKPageScrollView (1.3.3)
+  - GPUImage (0.1.7)
+  - IQKeyboardManager (6.5.5)
+  - JCore (1.1.9)
+  - JMessage (3.1.1):
+    - JCore (~> 1.1.1)
+  - JXCategoryView (1.5.3)
+  - MJExtension (3.2.1)
+  - MJRefresh (3.3.1)
+  - ReactiveObjC (3.0.0)
+  - Toast (4.0.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - GKNavigationBarViewController
+  - GKPageScrollView
+  - GPUImage (~> 0.1.7)
+  - IQKeyboardManager
+  - JMessage (~> 3.1.0)
+  - JXCategoryView
+  - MJExtension
+  - MJRefresh
+  - ReactiveObjC (~> 3.0.0)
+  - Toast
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - GKNavigationBarViewController
+    - GKPageScrollView
+    - GPUImage
+    - IQKeyboardManager
+    - JCore
+    - JMessage
+    - JXCategoryView
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+    - Toast
+    - YYModel
+
+SPEC CHECKSUMS:
+  GKNavigationBarViewController: 8d33b0994a9233d24cbfbbad62401a3328e39d08
+  GKPageScrollView: fef66b0200cbf7cf6b6819aaa62843ae1602bc19
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  JCore: 27598485098d0db99d2812cba048003457d08cfb
+  JMessage: ff9ed99ec0b92535411365a6a2ab6c5b247327f3
+  JXCategoryView: 64fbdf3d1bbc8087ebd0443dd3b49855000aca6e
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  ReactiveObjC: ce79989e8684b9086b5f8d0c74bc7b81a8729c9e
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: e5142f8a051edfc834f0768b6620897d2870ab13
+
+COCOAPODS: 1.9.0
